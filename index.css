@@ -1,0 +1,56 @@
+h1 { color:blue;
+    font-size:30px;
+    text-align:center;
+}
+#SPECIFIC
+{
+	Color: red;
+	text-align:center;
+}
+#CHANGE
+{	Color:blue;
+	text-align:center;
+}
+	
+body
+{
+   font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+#SCRUBS
+{
+	Color:blue;
+	text-align:center;
+}
+#SPECIAL
+{
+	Color:blue;
+	text-align:center;
+}
+#HARD
+{
+	Color:blue;
+	text-align:center;
+}
+#DEF
+{
+	Color:blue;
+	text-align:center;
+}
+h3
+{
+	Color:red;
+}
+#SOC
+{
+	Color:blue;
+	text-align:center;
+}
+p
+{
+	Color:brown;
+}
+li
+{
+	Color:green;
+}
